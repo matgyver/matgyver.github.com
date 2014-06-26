@@ -66,7 +66,7 @@ JB :
   #
   ASSET_PATH : false
   
-  #DUe to Maruku being obsolete, this tells GitHub to use the newer markdown
+  #Due to Maruku being obsolete, this tells GitHub to use the newer markdown
   markdown: kramdown
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
