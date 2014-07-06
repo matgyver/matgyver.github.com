@@ -11,14 +11,15 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : RFGeeks.com
+tagline: A collection of random thoughts
 author : 
   name : Matthew Nelson
   email : kb0mgq@gmail.com
   github : matgyver
   twitter : matgyver
   feedburner : feedname
+  googleplus : kb0mgq@gmail.com
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

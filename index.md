@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome to RFGeeks 
-tagline: I do RF and I'm a geek, enough said
+tagline:
 ---
 {% include JB/setup %}
 
