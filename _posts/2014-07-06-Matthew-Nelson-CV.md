@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Matthew E. Nelson CV
-tagline: I do RF and I'm a geek, enough said
+tagline: Curriculum Vitae
 category: About
 tags: [resume, cv,]
 ---
@@ -13,7 +13,9 @@ Iowa State University
 Ames, IA  50011-2271
 tel - 515-294-2640
 email - mnelson at iastate . edu
+
 * * *
+
 Education Background
 ====================
 
