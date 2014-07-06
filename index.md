@@ -26,5 +26,7 @@ Below is also a list of blog posts.
 </ul>
 
 ## Projects
-A vast majority of my projects are now hosted on GitHub.  So the best thing to do is to go to my [GitHub page](http://github.com/matgyver).  Eventually I plan to make GitHub pages for each project and then I will link those from this site.
+A vast majority of my projects are now hosted on GitHub.  So the best thing to do is to go to my [GitHub page](http://github.com/matgyver).  Eventually I plan to make GitHub pages for each project and then I will link those from this site.  In the meantime, a list of my projects is also below.
+
+{{site.github.public_repositories}}
 
