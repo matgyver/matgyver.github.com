@@ -1,27 +1,13 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Welcome to RFGeeks 
+tagline: I do RF and I'm a geek, enough said
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## Welcome to RFGeeks.com
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
+This page is very much a work in progress, should have more content soon.
     
 ## Sample Posts
 
@@ -39,8 +25,3 @@ Here's a sample "posts list".
 </ul>
 
 ## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
