@@ -3,7 +3,7 @@ layout: page
 title: Welcome to RFGeeks 
 tagline: I do RF and I'm a geek, enough said
 ---
-{% include JB/setup %}
+
 
 ## Welcome to RFGeeks.com
 
