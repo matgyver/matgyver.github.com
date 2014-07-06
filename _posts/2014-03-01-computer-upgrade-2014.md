@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Computers
 title: Computer Upgrade in 2014
 tags: [blog, computer, upgrade, intel, liquid cooling, custom]
 ---
