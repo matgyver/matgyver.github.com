@@ -4,7 +4,7 @@ title: Matthew E. Nelson
 tagline: Curriculum Vitae
 category: About
 tags: [resume, cv,]
-permalink: /:categories/:title/:title.html
+permalink: /About/CV/cv.html
 ---
 
 Matthew E. Nelson  
