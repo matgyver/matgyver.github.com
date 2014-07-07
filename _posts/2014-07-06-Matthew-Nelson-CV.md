@@ -26,35 +26,35 @@ Bachelors of Science, Electrical Engineering, Iowa State University, Ames, IA  M
 
 Presentations and Papers
 ========================
-M. Nelson E. Harstad (June 2014).  Using the Nucleo Board and mbed for High Altitude Ballooning.  2-day workshop taught at the 5th annual Academic High Altitude Conference, Grand Forks, ND
+M. Nelson E. Harstad (June 2014).  *Using the Nucleo Board and mbed for High Altitude Ballooning.*  2-day workshop taught at the 5th annual Academic High Altitude Conference, Grand Forks, ND
 
-M. Nelson (June 2014).  Teaching students science and engineering with high altitude balloons and ChipKits.  Paper presented at the ASEE 121st Annual Conference & Expo, Indianapolis, IN
+M. Nelson (June 2014).  *Teaching students science and engineering with high altitude balloons and ChipKits.*  Paper presented at the ASEE 121st Annual Conference & Expo, Indianapolis, IN
 
-M. Nelson E. Harstad (June 2013).  Using Digilent ChipKits for High Altitude Ballooning.  2-day workshop taught at the 4th annual Academic High Altitude Conference.  Upland, IN
+M. Nelson E. Harstad (June 2013).  *Using Digilent ChipKits for High Altitude Ballooning.*  2-day workshop taught at the 4th annual Academic High Altitude Conference.  Upland, IN
 
-M. Nelson (March 2013).  A New Organization: Making High Altitude Ballooning Accessible to Everyone.  Paper presented at the AIAA Balloon Systems Conference, Daytona Beach, FL
+M. Nelson (March 2013).  *A New Organization: Making High Altitude Ballooning Accessible to Everyone.*  Paper presented at the AIAA Balloon Systems Conference, Daytona Beach, FL
 
-M. Nelson C. Jensen (June 2012).  Aurora - ISU Zero Pressure Balloon Project.  Paper presented at the 3rd Annual Academic High Altitude Conference, Nashville, TN
+M. Nelson C. Jensen (June 2012).  *Aurora - ISU Zero Pressure Balloon Project.*  Paper presented at the 3rd Annual Academic High Altitude Conference, Nashville, TN
 
-M. Nelson (June 2012).  Formation of a National Organization for High Altitude Ballooning.  Paper presented at the 3rd Annual Academic High Altitude Conference, Nashville, TN
+M. Nelson (June 2012).  *Formation of a National Organization for High Altitude Ballooning.*  Paper presented at the 3rd Annual Academic High Altitude Conference, Nashville, TN
 
-M. Nelson (September 2011).  Formation of a National Organization for High Altitude Ballooning.  Presentation at the National Space Grant Consortium Meeting, Green Bay, WI
+M. Nelson (September 2011).  *Formation of a National Organization for High Altitude Ballooning.*  Presentation at the National Space Grant Consortium Meeting, Green Bay, WI
 
-M. Nelson (August 2011).  Bringing Amateur Radio to the Classroom in Space Related Projects.  Presentation at the ARRL Midwest convention, Cedar Rapids, IA
+M. Nelson (August 2011).  *Bringing Amateur Radio to the Classroom in Space Related Projects.*  Presentation at the ARRL Midwest convention, Cedar Rapids, IA
 
-M.Nelson (June 2011).  Welcome and Introduction of Mr. David Pierce from NASA Wallops; keynote speaker.  Opening at the 2nd Annual Academic High Altitude Conference (Video), Ames, IA
+M.Nelson (June 2011).  *Welcome and Introduction of Mr. David Pierce from NASA Wallops; keynote speaker.*  Opening at the 2nd Annual Academic High Altitude Conference [Video](http://www.stratoballooning.org/conference/2011), Ames, IA
 
-M. Nelson, C. Jensen, M. Lazere (June 2011).  Bridging college students and K-12 students together through High Altitude Ballooning. Paper presented at the 2nd Annual Academic High Altitude Conference (Video), Ames, IA
+M. Nelson, C. Jensen, M. Lazere (June 2011).  *Bridging college students and K-12 students together through High Altitude Ballooning.* Paper presented at the 2nd Annual Academic High Altitude Conference (Video), Ames, IA
 
-M. Nelson, E. Harstad, C. Reis (June 2010).  Modular Electronics System for the HABET program at ISU.  Paper presented at the Academic High Altitude Balloon Conference, Upland, IN.
+M. Nelson, E. Harstad, C. Reis (June 2010).  *Modular Electronics System for the HABET program at ISU.*  Paper presented at the Academic High Altitude Balloon Conference, Upland, IN.
 
-M. Nelson, C. Jensen (May 2010).  Linking the Classroom to Near Space and Beyond.  Paper presented at the Academic High Altitude Balloon Conference, Upland, IN.
+M. Nelson, C. Jensen (May 2010).  *Linking the Classroom to Near Space and Beyond.*  Paper presented at the Academic High Altitude Balloon Conference, Upland, IN.
 
-M. Nelson (May 2009).  Modular Electronics System for High Altitude Balloon Flights.  Paper presented at the AIAA Balloon Systems Conference, Seattle, WA.
+M. Nelson (May 2009).  *Modular Electronics System for High Altitude Balloon Flights.*  Paper presented at the AIAA Balloon Systems Conference, Seattle, WA.
 
-M. Nelson,  F. Nutter, J.  Basart (June 2009).  Engineering payload designs for remote sensing applications for plant pathology using latex weather balloons .  Paper presented at the American Phytopathological Society North Central Division Conference, Ames, IA
+M. Nelson,  F. Nutter, J.  Basart (June 2009).  *Engineering payload designs for remote sensing applications for plant pathology using latex weather balloons.*  Paper presented at the American Phytopathological Society North Central Division Conference, Ames, IA
 
-M. Nelson, N. Willis, L. Benson, D. Harper, S. Wagner, A. Frick, F. Laipert, N. Ramey (April 2008).  Feasibility Analysis of the Iowa State Student Moon Orbiter.  Paper presented at the AIAA Region V Conference, St. Louis, MO.
+M. Nelson, N. Willis, L. Benson, D. Harper, S. Wagner, A. Frick, F. Laipert, N. Ramey (April 2008).  *Feasibility Analysis of the Iowa State Student Moon Orbiter.*  Paper presented at the AIAA Region V Conference, St. Louis, MO.
 
 
 Copies of papers/presentations will be made available soon
