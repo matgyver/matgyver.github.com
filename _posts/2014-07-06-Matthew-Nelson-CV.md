@@ -3,7 +3,7 @@ layout: page
 title: Matthew E. Nelson
 tagline: Curriculum Vitae
 category: About
-tags: [resume, cv,]
+tags: [resume, cv, about]
 permalink: /About/CV/cv.html
 ---
 
