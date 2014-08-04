@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Matthew E. Nelson
+title: Matthew E. Nelson Curriculum Vitae
 tagline: Curriculum Vitae
 category: About
 tags: [resume, cv, about]
@@ -27,6 +27,8 @@ Bachelors of Science, Electrical Engineering, Iowa State University, Ames, IA  M
 Presentations and Papers
 ========================
 M. Nelson E. Harstad (June 2014).  *Using the Nucleo Board and mbed for High Altitude Ballooning.*  2-day workshop taught at the 5th annual Academic High Altitude Conference, Grand Forks, ND
+
+M. Nelson (June 2014).  *Moving Upwards and Forward*.  Keynote speech at the 5th annual Academic High Altitude Conference, Grand Forks, ND
 
 M. Nelson (June 2014).  *Teaching students science and engineering with high altitude balloons and ChipKits.*  Paper presented at the ASEE 121st Annual Conference & Expo, Indianapolis, IN
 
