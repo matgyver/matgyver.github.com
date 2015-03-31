@@ -133,7 +133,7 @@ University Teaching Experience
 ==============================
 
 |Semester|Course|University|Role|
-|---|:---:|:---:|---:|
+|---|:---:|:---:|:---:|
 |Fall 2009 to present|Make to Innovate courses (Aer E 490E/Aer E 290C)|Iowa State University|Instructor/Program Coordinator|
 |Spring 2012,2014|Microwave Remote Sensing (EE/Mtreo/Agron 518)|Iowa State University|Guest Lecturer|
 |Fall 2014|Introduction to Aerospace Engineering (Aer E 160)|Iowa State University|Instructor|
@@ -142,7 +142,7 @@ University Teaching Experience
 |Fall 2006 to Spring 2010|Electrical Engineering Senior Design (E E 491/E E 492)|Iowa State University|Adviser|
 |Spring 2010|Modeling and Techniques for Embedded Systems (Cpr E 584)|Iowa State University|Guest Lecturer on optimization techniques for the PIC32|
 |Fall 2009|High Speed System Measurements (E E 418)|Iowa State University|Guest Lecturer|
-|Spring 2011|Spacecraft Systems (Aer E 464)|Iowa State University|Guest Lecturer on power and communications in spacecraft systems|
+|Spring 2011|Spacecraft Systems (Aer E 464)|Iowa State University|Guest Lecturer|
 
 Additional information including selected course notes and slides will be made available soon.
 
