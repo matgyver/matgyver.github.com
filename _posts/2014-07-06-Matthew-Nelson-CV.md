@@ -132,7 +132,7 @@ Hobby Memberships
 University Teaching Experience
 ==============================
 
-|Spring 2012,2014|Microwave Remote Sensing (EE/Mtreo/Agron 518), Iowa State University, Guest Lecturer, assisted with hands on lab
+|Spring 2012,2014|Microwave Remote Sensing (EE/Mtreo/Agron 518)| Iowa State University|Guest Lecturer| assisted with hands on lab
 |Fall 2014|Introduction to Aerospace Engineering (Aer E 160),Iowa State University, Lecturer for one section in 160, assisted with hands on lab
 |Fall 2011 to Spring 2014|Introduction to Aerospace Engineering (Aer E 160), Iowa State University, Guest Lecturer (in Fall 2011 in Matlab topics), assisted with hands on lab
 |Fall 2006 to present|Scientific Ballooning Engineering and Operations (Aer E 265), Iowa State University, Instructor
