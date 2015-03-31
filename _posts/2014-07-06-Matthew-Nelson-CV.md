@@ -20,7 +20,7 @@ email - mnelson at iastate . edu
 Education Background
 ====================
 
-Masters of Science, Computer Engineering, Iowa State University, Ames, IA  Spring 2014.  Research in Embedded Systems and applications in RF Engineering by implementing software defined radios pertaining to radiometer applications
+Masters of Science, Computer Engineering, Iowa State University, Ames, IA  Spring 2015.  Research in Embedded Systems and applications in RF Engineering by implementing software defined radios pertaining to radiometer applications
 
 Bachelors of Science, Electrical Engineering, Iowa State University, Ames, IA  May 2002.  Studies in Electromagnetics, Digital Signal Processing and RF Engineering.
 
@@ -65,7 +65,7 @@ Additional Research Experience
 ==============================
 Thesis Topic - Application of remote sensing radiometer with software defined radios.  My thesis area focused on using software defined radios (SDR), along with GNURadio to create a flexible tool that can be used for remote sensing using a L-band radiometer.  My focus was rebuilding the digital side of an existing L-band radiometer with more modern equipment and designing a flexible and more user friendly interface to this equipment.
 
-Soil Moisture measurement using an L-band radiometer, Hornbuckle Research Group, Iowa State University (Dr. Brian Hornbuckle, PI).  Project Manager and Chief Engineer.  Worked on the maintenance and also in updating the ISU L-band radiometer for soil moisture research.  2005-2011.  Project Website
+Soil Moisture measurement using an L-band radiometer, Hornbuckle Research Group, Iowa State University (Dr. Brian Hornbuckle, PI).  Project Manager and Chief Engineer.  Worked on the maintenance and also in updating the ISU L-band radiometer for soil moisture research.  2005-2011.
 
 Study of wheat rust propagation using latex weather balloons, Space Systems and Controls Lab, Iowa State University (Dr. Forrest Nutter, PI).  Project Manager and Chief Engineer for the project.  Designed electronics used for visible, Near Infrared (NIR) photography, and a spore trap collection system using the Rotorod samplers.  Designed the payloads carried under the latex weather balloons.  Oversaw operation procedures for deployment and collection of data in the field.  2007 - 2009
 
@@ -133,7 +133,8 @@ University Teaching Experience
 ==============================
 
 |Spring 2012,2014|Microwave Remote Sensing (EE/Mtreo/Agron 518), Iowa State University, Guest Lecturer, assisted with hands on lab
-|Fall 2011 to present|Introduction to Aerospace Engineering (Aer E 160), Iowa State University, Guest Lecturer (in Fall 2011 in Matlab topics), assisted with hands on lab
+|Fall 2014|Introduction to Aerospace Engineering (Aer E 160),Iowa State University, Lecturer for one section in 160, assisted with hands on lab
+|Fall 2011 to Spring 2014|Introduction to Aerospace Engineering (Aer E 160), Iowa State University, Guest Lecturer (in Fall 2011 in Matlab topics), assisted with hands on lab
 |Fall 2006 to present|Scientific Ballooning Engineering and Operations (Aer E 265), Iowa State University, Instructor
 |Fall 2009 to present|Aerospace Engineering Independent Study (Aer E 490/Aer E 290), Iowa State University, Instructor/Adviser
 |Fall 2006 to Spring 2010| Electrical Engineering Senior Design (E E 491/E E 492), Iowa State University, Adviser for several
