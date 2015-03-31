@@ -133,7 +133,7 @@ University Teaching Experience
 ==============================
 
 |Semester|Course|University|Role|
-|---|---|---|---|
+|---|:---:|:---:|---:|
 |Fall 2009 to present|Make to Innovate courses (Aer E 490E/Aer E 290C)|Iowa State University|Instructor/Program Coordinator|
 |Spring 2012,2014|Microwave Remote Sensing (EE/Mtreo/Agron 518)|Iowa State University|Guest Lecturer|
 |Fall 2014|Introduction to Aerospace Engineering (Aer E 160)|Iowa State University|Instructor|
