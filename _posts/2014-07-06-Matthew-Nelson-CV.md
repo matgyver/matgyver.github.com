@@ -20,12 +20,14 @@ email - mnelson at iastate . edu
 Education Background
 ====================
 
-Masters of Science, Computer Engineering, Iowa State University, Ames, IA  Spring 2015.  Research in Embedded Systems and applications in RF Engineering by implementing software defined radios pertaining to radiometer applications
+Masters of Science, Computer Engineering, Iowa State University, Ames, IA  Spring 2016.  Research in Embedded Systems and applications in RF Engineering by implementing software defined radios pertaining to radiometer applications
 
 Bachelors of Science, Electrical Engineering, Iowa State University, Ames, IA  May 2002.  Studies in Electromagnetics, Digital Signal Processing and RF Engineering.
 
 Presentations and Papers
 ========================
+M. Nelson (June 2015).  *Wireless Sensor Networks for High Altitude Balloons*.  6th Annual Academic High Altitude conference, Chicago, IL
+
 M. Nelson E. Harstad (June 2014).  *Using the Nucleo Board and mbed for High Altitude Ballooning.*  2-day workshop taught at the 5th annual Academic High Altitude Conference, Grand Forks, ND
 
 M. Nelson (June 2014).  *Moving Upwards and Forward*.  Keynote speech at the 5th annual Academic High Altitude Conference, Grand Forks, ND
@@ -135,10 +137,10 @@ University Teaching Experience
 |Semester |Course |University |Role |
 |---  |:---|:---:|:---|
 |Fall 2009 to present | Make to Innovate courses (Aer E 490E/Aer E 290C)  | Iowa State University | Instructor/Program Coordinator|
-|Spring 2012,2014| Microwave Remote Sensing (EE/Mtreo/Agron 518)| Iowa State University| Guest Lecturer|
+|Spring 2012,2014,2016| Microwave Remote Sensing (EE/Mtreo/Agron 518)| Iowa State University| Guest Lecturer|
 |Fall 2014| Introduction to Aerospace Engineering (Aer E 160)| Iowa State University| Instructor|
-|Fall 2011 to Spring 2014| Introduction to Aerospace Engineering (Aer E 160)| Iowa State University| Guest Lecturer for topics in Matlab|
-|Fall 2006 to present| Scientific Ballooning Engineering and Operations (Aer E 265)| Iowa State University| Instructor|
+|Fall 2011 to Spring 2014| Introduction to Aerospace Engineering (Aer E 160)| Iowa State University| Co-Instructor for topics in Matlab|
+|Fall 2006 to Spring 2014| Scientific Ballooning Engineering and Operations (Aer E 265)| Iowa State University| Instructor|
 |Fall 2006 to Spring 2010| Electrical Engineering Senior Design (E E 491/E E 492)| Iowa State University| Adviser|
 |Spring 2010| Modeling and Techniques for Embedded Systems (Cpr E 584)| Iowa State University| Guest Lecturer|
 |Fall 2009| High Speed System Measurements (E E 418)| Iowa State University| Guest Lecturer|
@@ -150,12 +152,8 @@ Hobbies/Volunteer work
 ======================
 + Amateur Radio, currently Extra Class license
 + ARRL Volunteer Examiner
-+ Flying, currently student pilot
++ Flying, PPL, working on instrument rating
 
 References
 ==========
-Mr. Bill Rickard, Staff, Aerospace Engineering, Iowa State University, Ames, IA
-Dr. John Basart, Emeritus Professor, Electrical and Computer Engineering, Iowa State University, Ames, IA
-Dr. Brian Hornbuckle, Associate Professor, Agronomy and the Electrical and Computer Engineering Department, Iowa State University, Ames, IA
-Dr. Mani Mina, Adjunct Professor, Electrical and Computer Engineering, Iowa State University, Ames, IA
-Dr. Phillip Jones, Assistant Professor, Electrical and Computer Engineering, Iowa State University, Ames, IA
+Available upon request
