@@ -3,6 +3,8 @@ layout: default
 group: About
 title: About my site
 ---
+{% include libs/truncate_start %}
+{% for post in paginator.posts limit: 1 %}
 			<article>
 				<header>
 					<h1>{{ page.title }}</h1>
@@ -19,3 +21,11 @@ title: About my site
 				<footer>
 				</footer>
 			</article>
+{% capture m %}{{ m | plus: 1 }}{% endcapture %}
+	{% if m == M or forloop.last %}
+			</div><!--/row-fluid-->
+		{% assign m = 0 %}
+	{% endif %}
+{% endfor %}
+{% include libs/truncate_end %}
+{% include pagenation.html %}
