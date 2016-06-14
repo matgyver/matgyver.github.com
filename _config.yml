@@ -5,7 +5,8 @@ source: .
 destination: ./_site
 plugins: ./_plugins
 lsi: true
-pygments: true
+#pygments: true
+highlighter:rouge
 markdown: rdiscount
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vender']
 
@@ -17,17 +18,24 @@ exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vender']
 #   url: http://USERNAME.github.com/REPOSITORY
 #   baseurl: /REPOSITORY
 url: http://USERNAME.github.com
-baseurl: 
+baseurl:
+production_url : http://www.rfgeeks.com
 
 # Configuration for permalink
 # `permalink`: none, pretty or /blog/:categories/:title.html
 permalink: /blog/:year/:month/:title/
 
 # Configuration for site
-title: The Code Folio
-description: A personal log of life coding.
-author: USERNAME
-email: USERNAME@example.com
+
+title : RFGeeks.com
+description: A collection of random thoughts
+author :
+  name : Matthew Nelson
+  email : kb0mgq@gmail.com
+  github : matgyver
+  twitter : matgyver
+  feedburner : feedname
+  googleplus : MatthewNelsonKB0MGQ
 
 # Configuration for blog
 lang: ja

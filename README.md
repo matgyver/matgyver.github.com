@@ -1,43 +1,20 @@
-## 5 steps to get started blogging on GitHub with [Prose.io](http://prose.io/)
+# RFGeeks website
 
-### Step.1
-Fork this repository.
+In July 2014 I moved the RFGeeks website to GitHub using Jekyll.  This repos of course holds the source files that build the static pages for RFGeeks.  In addition the original site over on Google Sites will remain for reference as well at <http://sites.google.com/site/rfgeeks>.  
 
-### Step.2
-From **Admin** > **Options** > **Settings**, rename the repository to 
-`USERNAME.github.com` for your [GitHub pages](http://pages.github.com/).
+## Changelog
 
-After ten minutes, you can find a sample page at `http://USERNAME.github.com`
-(like [this](http://tokkono.github.com/)).
+Changelog will go here once the site stabilizes.  
 
-### Step.3
-Login to [Prose.io](http://prose.io/). 
-Make sure to authorize Prose to access your repositories.
+## Version
 
-### Step.4
-Write your article. Access to the repository `USERNAME.github.com` 
-and go to `_post` directory, then `+ NEW FILE` to create new article.
- 
-Make sure to change `Metadata` as follows.
+0.1 - Initial site
+0.2 - Added information and main page
+0.3 - Major revamp to site, beta stage still
 
-	layout: post
-	title: my first article
-	published: true
 
-### Step.5
-Publish your article. Save and Commit. Then you can see your article at 
-`http://USERNAME.github.com/`.
+## Information
 
-## References
-* [Blogging with Jekyll Tutorial | Jekyll-Bootstrap](http://jekyllbootstrap.com/)  
-	You can find an awesome tutorial about blogging with jekyll.
-* [Home - mojombo/jekyll Wiki](https://github.com/mojombo/jekyll/wiki)
-* [Home - Shopify/liquid Wiki](https://github.com/Shopify/liquid/wiki)
 
-## Want to customize ?
-Sure, first and foremost, you should edit `_config.yml` file.
-check the [wiki](https://github.com/tokkonopapa/jekyll-experiment/wiki) out !
+What is RFGeeks?  It is the personal website for Matthew Nelson.  Through this website I often document projects I am working on and blog things that I think are interesting.  The topics may vary, but will probably be about electrical and computer engineering, education, programming, embedded systems, high altitude ballooning, robotics, amateur radio and probably even about flying.  
 
-## License
-Licensed under the [MIT License][mit].
-[MIT]: http://www.opensource.org/licenses/mit-license.php
