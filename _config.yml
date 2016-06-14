@@ -7,7 +7,7 @@ plugins: ./_plugins
 lsi: true
 #pygments: true
 highlighter: rouge
-markdown: rdiscount
+markdown: kramdown
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vender']
 
 # Configuration for url/path
