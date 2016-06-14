@@ -84,7 +84,7 @@ asides:
     recent_posts: true
     archive_tabs: true
     tweets: true
-    github: false
+    github: true
 
 # Configuration for pygments
 # `pygments_style`:
@@ -98,10 +98,10 @@ jquery_ver: 1.10.2
 #-----------------------------------
 # Configuration for 3rd party script
 #-----------------------------------
-disqus:
-    short_name: USERNAME
-    comment_count: true
-    developer_mode: true
+#disqus:
+#    short_name: USERNAME
+#    comment_count: true
+#    developer_mode: true
 
 #feedburner:
 #    id: YOUR_SITE_ID
@@ -116,20 +116,20 @@ google_plus_one:
 # `locale`: ja_JP, en_US, es_LA, fr_FR, de_DE, it_IT, zh_CN, ko_KR, ...
 facebook:
     xfbml: false
-    locale: ja_JP
+    locale: en_US
 
 twitter:
-    username: twitterapi
+    username: matgyver
     count: 5
     exclude_replies: true
     show_screen_name: true
     show_follower_count: false
 #    widget_id: 243046062967885824
 
-#github:
-#    username: USERNAME
-#    count: 5
+github:
+    username: matgyver
+    count: 5
 
-pocket: true
+#pocket: true
 
 #hatena: true
