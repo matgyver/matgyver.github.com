@@ -17,9 +17,9 @@ exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vender']
 # * Project page:
 #   url: http://USERNAME.github.com/REPOSITORY
 #   baseurl: /REPOSITORY
-url: http://matgyver.github.com
-baseurl: http://www.rfgeeks.com
-production_url : http://www.rfgeeks.com
+#url: http://matgyver.github.com
+#baseurl: http://www.rfgeeks.com
+#production_url : http://www.rfgeeks.com
 
 # Configuration for permalink
 # `permalink`: none, pretty or /blog/:categories/:title.html
