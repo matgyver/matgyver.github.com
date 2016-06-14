@@ -29,13 +29,14 @@ permalink: /blog/:year/:month/:title/
 
 title : RFGeeks.com
 description: A collection of random thoughts
-author :
-  name : Matthew Nelson
-  email : kb0mgq@gmail.com
-  github : matgyver
-  twitter : matgyver
-  feedburner : feedname
-  googleplus : MatthewNelsonKB0MGQ
+author : Matthew Nelson
+  
+#  name : Matthew Nelson
+#  email : kb0mgq@gmail.com
+#  github : matgyver
+#  twitter : matgyver
+#  feedburner : feedname
+#  googleplus : MatthewNelsonKB0MGQ
 
 # Configuration for blog
 lang: ja
