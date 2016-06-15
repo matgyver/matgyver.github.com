@@ -24,8 +24,8 @@ description: A little bit of everything
 # List of links in the navigation bar
 navbar-links:
   About:
-	- About the site: "aboutme"
-	- About the author: "aboutme"
+    - About the site: "aboutme"
+    - About the author: "aboutme"
   Projects:
     - Coming soon:
     - Coming soon:
