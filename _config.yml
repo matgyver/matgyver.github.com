@@ -32,8 +32,8 @@ navbar-links:
     - Coming soon:
   Blog:
   HAB:
-    - FAR 101 Rules: "HAB\FAR101"
-	- HAB FAQs: "HAB\HABFAQ"
+    - FAR 101 Rules: "HAB/FAR101"
+	- HAB FAQs: "HAB/HABFAQ"
   Engineering:
 
 # Image to show in the navigation bar - image must be a square (width = height)
