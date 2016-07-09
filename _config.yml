@@ -31,6 +31,8 @@ navbar-links:
     - Coming soon:
     - Coming soon:
   Blog:
+  Travels:
+    - Japan: "travels/japan"
   HAB:
     - FAR 101 Rules: "HAB/FAR101"
     - HAB FAQs: "HAB/HABFAQ"
