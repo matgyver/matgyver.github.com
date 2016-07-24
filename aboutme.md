@@ -135,10 +135,11 @@ University Teaching Experience
 
 |Semester |Course |University |Role |
 |---  |:---|:---:|:---|
-|Fall 2009 to present | Make to Innovate courses (Aer E 490E/Aer E 290C)  | Iowa State University | Instructor/Program Coordinator|
+|Fall 2016 to present | Make to Innovate (Aer E 494X/Aer E 294X)  | Iowa State University | Instructor/Program Coordinator|
+|Fall 2009 to 2016 | Independent Study used for M:2:I (Aer E 490E/Aer E 290C)  | Iowa State University | Instructor/Program Coordinator|
 |Spring 2012,2014,2016| Microwave Remote Sensing (EE/Mtreo/Agron 518)| Iowa State University| Guest Lecturer|
 |Fall 2014| Introduction to Aerospace Engineering (Aer E 160)| Iowa State University| Instructor|
-|Fall 2011 to Spring 2014| Introduction to Aerospace Engineering (Aer E 160)| Iowa State University| Co-Instructor for topics in Matlab|
+|Fall 2011 to Spring 2016| Introduction to Aerospace Engineering (Aer E 160)| Iowa State University| Co-Instructor for topics in Matlab|
 |Fall 2006 to Spring 2014| Scientific Ballooning Engineering and Operations (Aer E 265)| Iowa State University| Instructor|
 |Fall 2006 to Spring 2010| Electrical Engineering Senior Design (E E 491/E E 492)| Iowa State University| Adviser|
 |Spring 2010| Modeling and Techniques for Embedded Systems (Cpr E 584)| Iowa State University| Guest Lecturer|
