@@ -64,14 +64,21 @@ Copies of papers/presentations will be made available soon
 
 Additional Research Experience
 ==============================
-Thesis Topic - Application of remote sensing radiometer with software defined radios.  My thesis area focused on using software defined radios (SDR), along with GNURadio to create a flexible tool that can be used for remote sensing using a L-band radiometer.  My focus was rebuilding the digital side of an existing L-band radiometer with more modern equipment and designing a flexible and more user friendly interface to this equipment.
+Thesis Topic
+------------
+Application of remote sensing radiometer with software defined radios.  My thesis area focused on using software defined radios (SDR), along with GNURadio to create a flexible tool that can be used for remote sensing using a L-band radiometer.  My focus was rebuilding the digital side of an existing L-band radiometer with more modern equipment and designing a flexible and more user friendly interface to this equipment.
 
-Soil Moisture measurement using an L-band radiometer, Hornbuckle Research Group, Iowa State University (Dr. Brian Hornbuckle, PI).  Project Manager and Chief Engineer.  Worked on the maintenance and also in updating the ISU L-band radiometer for soil moisture research.  2005-2011.
+Soil Moisture measurement using an L-band radiometer, Hornbuckle Research Group, Iowa State University (Dr. Brian Hornbuckle, PI).  
+----------------------------------------------------------------------------------------------------------------------------------------
+Project Manager and Chief Engineer.  Worked on the maintenance and also in updating the ISU L-band radiometer for soil moisture research.  2005-2011.
 
-Study of wheat rust propagation using latex weather balloons, Space Systems and Controls Lab, Iowa State University (Dr. Forrest Nutter, PI).  Project Manager and Chief Engineer for the project.  Designed electronics used for visible, Near Infrared (NIR) photography, and a spore trap collection system using the Rotorod samplers.  Designed the payloads carried under the latex weather balloons.  Oversaw operation procedures for deployment and collection of data in the field.  2007 - 2009
+Study of wheat rust propagation using latex weather balloons, Space Systems and Controls Lab, Iowa State University (Dr. Forrest Nutter, PI).  
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Project Manager and Chief Engineer for the project.  Designed electronics used for visible, Near Infrared (NIR) photography, and a spore trap collection system using the Rotorod samplers.  Designed the payloads carried under the latex weather balloons.  Oversaw operation procedures for deployment and collection of data in the field.  2007 - 2009
 
 Honours and Awards
 =================
++ Induction into IEEE Etta Kappa Nue, 2016
 + NASA Exploration Systems Mission Directorate (ESMD) Award for Senior Design projects, $4,000, Fall 2011
 + NASA Exploration Systems Mission Directorate (ESMD) Award, $6,000, Summer 2010
 + Iowa State University Professional and Scientific Excellence Award, $1,500, Fall 2014.
@@ -99,20 +106,20 @@ Co-Founded the company that does engineering consulting and recently has expande
 Organizations
 -------------
 
-President and Chair (2012 - present) - [Stratospheric Ballooning Association (SBA)](http://www.stratoballooning.org) - A non-profit organization with the core objective of making safe stratospheric ballooning accessible to everyone.  This group was formed in 2012.
+President and Chairmen of the Board (2012 - present) - [Stratospheric Ballooning Association (SBA)](http://www.stratoballooning.org) - A non-profit organization with the core objective of making safe stratospheric ballooning accessible to everyone.  This group was formed in 2012.
 
 Committees
 ----------
 
-Committee Member (2013 - present) - Aerospace Engineering Labs and Equipment Committee.  This committee meets to determine how funding from the College of Engineering (EFTF) is spent to improve the labs, equipment and computers used in the Aerospace Engineering Department.
+Committee Member (2013 - 2015) - Aerospace Engineering Labs and Equipment Committee.  This committee meets to determine how funding from the College of Engineering (EFTF) is spent to improve the labs, equipment and computers used in the Aerospace Engineering Department.
 
-Treasurer (2011-present) - [The Undergraduate Resource Hub](http://www.resourcehub.iastate.edu) - The Undergraduate Resource Hub is an organization on the campus of Iowa State University that works to bring various shops and labs together for students to use in their hands on projects.  The URH collects information on the capabilities of various shops and labs on campus so students know where to go for certain tasks such as 3D printers, CNC work or even soldering stations.  
+Treasurer (2011-2016) - [The Undergraduate Resource Hub](http://www.resourcehub.iastate.edu) - The Undergraduate Resource Hub is an organization on the campus of Iowa State University that works to bring various shops and labs together for students to use in their hands on projects.  The URH collects information on the capabilities of various shops and labs on campus so students know where to go for certain tasks such as 3D printers, CNC work or even soldering stations.  
 
-Committee Member (2011-present) - [Academic High Altitude Conference](http://www.stratoballooning.org/conference) - High Altitude Balloon conference focused on bringing high altitude ballooning to the academic environment.  Next conference will be in June 2014 at the University of North Dakota.
+Committee Member (2011-2015) - [Academic High Altitude Conference](http://www.stratoballooning.org/conference) - High Altitude Balloon conference focused on bringing high altitude ballooning to the academic environment.  Next conference will be in June 2014 at the University of North Dakota.
 
 Committee Chair (2011 - 2012) - National Near Space Alliance (NNSA) - A new organization aimed at working with other high altitude groups to promote safety and increase awareness of high altitude activities.  This committee was retired when the Stratospheric Ballooning Association was officially announced in June 2012.
 
-Committee Chair (2010-2011) - 2nd Annual Academic High Altitude Conference - High Altitude Balloon conference held at Iowa State University June 20-24th, 2011.  
+Conference Committee Chair (2010-2011) - 2nd Annual Academic High Altitude Conference - High Altitude Balloon conference held at Iowa State University June 20-24th, 2011.  
 
 Continuing Education
 --------------------

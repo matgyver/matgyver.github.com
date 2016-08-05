@@ -1,73 +1,38 @@
 ---
 layout: page
-title: Destination
+title: Trip to Japan
 tagline: Japan
 category: Travels
 tags: [travel, japan]
 
 bigimg:
-  - "/img/japan/lilu_bench.jpg" : "Lilu sleeping on the workbench"
-  - "/img/banner/flying_FF.jpg" : "Flying near Fergus Falls, MN"
-  - "/img/banner/rpi_adsb.jpg" : "Raspberry Pi ADS-B Receiver"
-  - "/img/banner/howehall_ant.jpg" : "Antennas on Howe Hall"
-  - "/img/banner/bigben.JPG" : "Big Ben - London, UK"
-  - "/img/banner/howehall_winter.JPG" : "Howe Hall - Ames, IA"
-  - "/img/banner/cy_space.JPG" : "Cy at 70,000 feet"
-  - "/img/banner/reiman.jpg" : "Reiman Gardens - Ames, IA"
-  - "/img/banner/flying_az.JPG" : "Flying to Sedona, AZ"
-  - "/img/banner/elcaptain.JPG" : "El Capitan - Yosemite National Park"
-  - "/img/banner/abc_computer.jpg" : "ISU ABC Computer at Computer History Museum"
-  - "/img/banner/japan_lego.jpg" : "Nano Blocks - Japan"
-  - "/img/banner/bvi.jpg" : "British Virgin Islands"
-  - "/img/banner/virgin_island.jpg" : "U.S. Virgin Islands"
-  - "/img/banner/piper.jpg" : "Piper PA-28-180 flying near Jefferson, IA"
-  - "/img/banner/boston.jpg" : "Boston, MA"
-  - "/img/banner/cancun.JPG" : "Cancun, Mexico"
-  - "/img/banner/madison.JPG" : "Covered Bridge - Madison County IA"
-  - "/img/banner/bunratty.jpg" : "Bunratty, Ireland"
-  - "/img/banner/japan_lantern.jpg" : "Kyoto, Japan"
-  - "/img/banner/nova_scotia.jpg" : "Peggy's Cover, Nova Scotia"
-  - "/img/banner/habet.jpg" : "High Altitude Balloon Launch"
+  - "/img/kyoto-station.jpg" : "Kyoto Station, Japan"
+  - "/img/himeji-castle.jpg" : "Himeji Castle, Japan"
+  - "/img/nara.jpg" : "Nara Park, Japan"
+  - "/img/Daikaku-ji.jpg" : "Antennas on Howe Hall"
+  - "/img/fushimi_inari-taisha.jpg" : "Big Ben - London, UK"
+  - "/img/kinkaku-ji.jpg" : "Howe Hall - Ames, IA"
+  - "/img/museum.jpg" : "Cy at 70,000 feet"
+  - "/img/nishikyo-ku.jpg" : "Reiman Gardens - Ames, IA"
+  - "/img/sanja_matsura_festival.jpg" : "Sanja Matsura Festival, Tokyo"
+  - "/img/sanjusangen-do.jpg" : "El Capitan - Yosemite National Park"
+  - "/img/Shibuya_tsutaya.jpg" : "ISU ABC Computer at Computer History Museum"
+  - "/img/shibuya.jpg" : "Nano Blocks - Japan"
+  - "/img/shijo-street.jpg" : "British Virgin Islands"
 
 ---
 
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
-	
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}  
-    </a>
+Trip to Japan
+=============
 
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-  
-    <div class="post-entry">
-      {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-    </div>
-  
-   </article>
-  {% endfor %}
-</div>
+My wife decided that our first international trip to a country where English is not the primary language would be Japan.  We both had an interest in Japanese culture, food and the people there and we had heard that it is a beautiful country to visit.  We were not disappointed.
 
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+Japan is a wonderful country to visit.  The people that we met were very friendly which helped with the language barrier.  Despite that, many people in Japan either spoke fairly good English or wanted to practice their English on us.  I sat on a bus in Kyoto speaking to a seventy year old man that wanted see how good his English speaking skills were.  I think that was one of the things that we learned while traveling in Japan, the people there care and have a deep passion for their culture and nationality, very much like our home in the midwest.  You can see this passion in almost everything they do, from their food, buildings, and even how clean they keep the subway stations.  
+
+My wife and I spent a little over a week in Japan, which in retrospect was not enough time.  We visited two main areas: Tokyo and then Kyoto.  Tokyo gives you a taste of the city life in Japan.  It is busy, a bit noisy, but a vibrant city.  Kyoto on the other hand has a more country feel to it.  It is still a fairly large city, but it is nestled at the bottom of a mountain and is surrounded by wildlife.  
+
+Tokyo
+-----
+
+Kyoto
+-----
