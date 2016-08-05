@@ -1,10 +1,12 @@
 ---
 layout: page
-title: RFGeeks
-subtitle: A place about engineering, flying, travels, radios and just life.
+title: Destination
+tagline: Japan
+category: Travels
+tags: [travel, japan]
 
 bigimg:
-  - "/img/banner/lilu_bench.jpg" : "Lilu sleeping on the workbench"
+  - "/img/japan/lilu_bench.jpg" : "Lilu sleeping on the workbench"
   - "/img/banner/flying_FF.jpg" : "Flying near Fergus Falls, MN"
   - "/img/banner/rpi_adsb.jpg" : "Raspberry Pi ADS-B Receiver"
   - "/img/banner/howehall_ant.jpg" : "Antennas on Howe Hall"
