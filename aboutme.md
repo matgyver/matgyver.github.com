@@ -64,6 +64,7 @@ Copies of papers/presentations will be made available soon
 
 Additional Research Experience
 ==============================
+
 ### Thesis Topic
 
 Application of remote sensing radiometer with software defined radios.  My thesis area focused on using software defined radios (SDR), along with GNURadio to create a flexible tool that can be used for remote sensing using a L-band radiometer.  My focus was rebuilding the digital side of an existing L-band radiometer with more modern equipment and designing a flexible and more user friendly interface to this equipment.
