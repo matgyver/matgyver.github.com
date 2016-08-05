@@ -64,16 +64,16 @@ Copies of papers/presentations will be made available soon
 
 Additional Research Experience
 ==============================
-Thesis Topic
-------------
+### Thesis Topic
+
 Application of remote sensing radiometer with software defined radios.  My thesis area focused on using software defined radios (SDR), along with GNURadio to create a flexible tool that can be used for remote sensing using a L-band radiometer.  My focus was rebuilding the digital side of an existing L-band radiometer with more modern equipment and designing a flexible and more user friendly interface to this equipment.
 
-Soil Moisture measurement using an L-band radiometer, Hornbuckle Research Group, Iowa State University (Dr. Brian Hornbuckle, PI).  
-----------------------------------------------------------------------------------------------------------------------------------------
+### Soil Moisture measurement using an L-band radiometer, Hornbuckle Research Group, Iowa State University (Dr. Brian Hornbuckle, PI).  
+
 Project Manager and Chief Engineer.  Worked on the maintenance and also in updating the ISU L-band radiometer for soil moisture research.  2005-2011.
 
-Study of wheat rust propagation using latex weather balloons, Space Systems and Controls Lab, Iowa State University (Dr. Forrest Nutter, PI).  
--------------------------------------------------------------------------------------------------------------------------------------------------
+### Study of wheat rust propagation using latex weather balloons, Space Systems and Controls Lab, Iowa State University (Dr. Forrest Nutter, PI).  
+
 Project Manager and Chief Engineer for the project.  Designed electronics used for visible, Near Infrared (NIR) photography, and a spore trap collection system using the Rotorod samplers.  Designed the payloads carried under the latex weather balloons.  Oversaw operation procedures for deployment and collection of data in the field.  2007 - 2009
 
 Honours and Awards
