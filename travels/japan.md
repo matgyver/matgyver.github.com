@@ -6,19 +6,19 @@ category: Travels
 tags: [travel, japan]
 
 bigimg:
-  - "/img/kyoto-station.jpg" : "Kyoto Station, Japan"
-  - "/img/himeji-castle.jpg" : "Himeji Castle, Japan"
-  - "/img/nara.jpg" : "Nara Park, Japan"
-  - "/img/Daikaku-ji.jpg" : "Antennas on Howe Hall"
-  - "/img/fushimi_inari-taisha.jpg" : "Big Ben - London, UK"
-  - "/img/kinkaku-ji.jpg" : "Howe Hall - Ames, IA"
-  - "/img/museum.jpg" : "Cy at 70,000 feet"
-  - "/img/nishikyo-ku.jpg" : "Reiman Gardens - Ames, IA"
-  - "/img/sanja_matsura_festival.jpg" : "Sanja Matsura Festival, Tokyo"
-  - "/img/sanjusangen-do.jpg" : "El Capitan - Yosemite National Park"
-  - "/img/Shibuya_tsutaya.jpg" : "ISU ABC Computer at Computer History Museum"
-  - "/img/shibuya.jpg" : "Nano Blocks - Japan"
-  - "/img/shijo-street.jpg" : "British Virgin Islands"
+  - "/travels/img/kyoto-station.jpg" : "Kyoto Station, Japan"
+  - "/travels/img/himeji-castle.jpg" : "Himeji Castle, Japan"
+  - "/travels/img/nara.jpg" : "Nara Park, Japan"
+  - "/travels/img/Daikaku-ji.jpg" : "Daikaku Temple, Japan"
+  - "/travels/img/fushimi_inari-taisha.jpg" : "Fushimi Inari-taisha, Japan"
+  - "/travels/img/kinkaku-ji.jpg" : "Kinkaku-ji Temple, Japan"
+  - "/travels/img/museum.jpg" : "Edo-Tokyo Museum, Japan"
+  - "/travels/img/nishikyo-ku.jpg" : "Nishikyo-ku, Kyoto, Japan"
+  - "/travels/img/sanja_matsura_festival.jpg" : "Sanja Matsura Festival, Tokyo"
+  - "/travels/img/sanjusangen-do.jpg" : "Sanjusangendo Temple, Kyoto, Japan"
+  - "/travels/img/Shibuya_tsutaya.jpg" : "Starbucks at Shibuya Tsutaya, Tokyo, Japan"
+  - "/travels/img/shibuya.jpg" : "Tokyo, Japan"
+  - "/travels/img/shijo-street.jpg" : "Yasaka Shrine, Kyoto, Japan"
 
 ---
 
