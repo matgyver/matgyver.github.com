@@ -33,6 +33,7 @@ My wife and I spent a little over a week in Japan, which in retrospect was not e
 
 Tokyo
 -----
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/36658047@N08/r40YV8" title="Tokyo"><img src="https://c1.staticflickr.com/9/8675/28757252656_6ef358178f_c.jpg" width="800" height="600" alt="Tokyo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Kyoto
 -----
