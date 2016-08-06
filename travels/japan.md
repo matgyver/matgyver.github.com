@@ -33,7 +33,7 @@ My wife and I spent a little over a week in Japan, which in retrospect was not e
 
 Tokyo
 -----
-<a data-flickr-embed="true"  href="https://www.flickr.com/gp/36658047@N08/r40YV8" title="Tokyo"><img src="https://c1.staticflickr.com/9/8675/28757252656_6ef358178f_c.jpg" width="800" height="600" alt="Tokyo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div style="width:800px;height:600px;text-align:center;margin:auto;" ><object width="800" height="600" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"> <param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F36658047%40N08%2Falbums%2F72157670959022100%2Fshow&amp;page_show_back_url=%2Fphotos%2F36658047%40N08%2Falbums%2F72157670959022100%2F&amp;user_id=36658047@N08" /> <param name="allowFullScreen" value="true" /> <param name="src" value="https://www.flickr.com/apps/slideshow/show.swf?v=71649" /> <embed width="800" height="600" type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=71649" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F36658047%40N08%2Falbums%2F72157670959022100%2Fshow&amp;page_show_back_url=%2Fphotos%2F36658047%40N08%2Falbums%2F72157670959022100%2F&amp;user_id=36658047@N08" allowFullScreen="true" /> </object><br /><small>Created with <a href="http://www.flickrslideshow.com">flickr slideshow</a>.</small></div>
 
 Kyoto
 -----
