@@ -107,7 +107,7 @@ Co-Founded the company that does engineering consulting and recently has expande
 Organizations
 -------------
 
-President and Chairmen of the Board (2012 - present) - [Stratospheric Ballooning Association (SBA)](http://www.stratoballooning.org) - A non-profit organization with the core objective of making safe stratospheric ballooning accessible to everyone.  This group was formed in 2012.
+President and Chairman of the Board (2012 - present) - [Stratospheric Ballooning Association (SBA)](http://www.stratoballooning.org) - A non-profit organization with the core objective of making safe stratospheric ballooning accessible to everyone.  This group was formed in 2012.
 
 Committees
 ----------
@@ -116,7 +116,7 @@ Committee Member (2013 - 2015) - Aerospace Engineering Labs and Equipment Commit
 
 Treasurer (2011-2016) - [The Undergraduate Resource Hub](http://www.resourcehub.iastate.edu) - The Undergraduate Resource Hub is an organization on the campus of Iowa State University that works to bring various shops and labs together for students to use in their hands on projects.  The URH collects information on the capabilities of various shops and labs on campus so students know where to go for certain tasks such as 3D printers, CNC work or even soldering stations.  
 
-Committee Member (2011-2015) - [Academic High Altitude Conference](http://www.stratoballooning.org/conference) - High Altitude Balloon conference focused on bringing high altitude ballooning to the academic environment.  Next conference will be in June 2014 at the University of North Dakota.
+Committee Member (2011- present) - [Academic High Altitude Conference](http://www.stratoballooning.org/conference) - High Altitude Balloon conference focused on bringing high altitude ballooning to the academic environment.  Next conference will be in June 2014 at the University of North Dakota.
 
 Committee Chair (2011 - 2012) - National Near Space Alliance (NNSA) - A new organization aimed at working with other high altitude groups to promote safety and increase awareness of high altitude activities.  This committee was retired when the Stratospheric Ballooning Association was officially announced in June 2012.
 
