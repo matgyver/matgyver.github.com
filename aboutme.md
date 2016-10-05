@@ -19,6 +19,8 @@ email - mnelson at iastate . edu
 Education Background
 ====================
 
+PhD, Human Computer Interaction - Emphasis in Engineering Education, Iowa State University, Ames, IA  Estimated graduation - Spring 2020
+
 Masters of Science, Computer Engineering, Iowa State University, Ames, IA  Spring 2016.  Research in Embedded Systems and applications in RF Engineering by implementing software defined radios pertaining to radiometer applications
 
 Bachelors of Science, Electrical Engineering, Iowa State University, Ames, IA  May 2002.  Studies in Electromagnetics, Digital Signal Processing and RF Engineering.
