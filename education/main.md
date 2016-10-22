@@ -6,7 +6,7 @@ category: Education
 tags: [education, research, teaching]
 
 bigimg:
-  - "/education/img/m2i_lab" : "Make to Innovate Lab at Iowa State University"
+  - "/education/img/m2i_lab.jpg" : "Make to Innovate Lab at Iowa State University"
   - "/education/img/mavric.jpg" : "MAVRIC Mars Rover"
 
 ---
