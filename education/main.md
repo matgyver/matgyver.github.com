@@ -9,7 +9,7 @@ bigimg:
   - "/education/img/m2i_lab.jpg" : "Make to Innovate Lab at Iowa State University"
   - "/education/img/mavric.jpg" : "MAVRIC Mars Rover"
   - "/education/img/m2i_expo.jpg" : "Make to Innovate Expo"
-  - "/education/img/m2i_coin.jpg" : "Make to Innovate Challenge Coin
+  - "/education/img/m2i_coin.jpg" : "Make to Innovate Challenge Coin"
   - "/education/img/lta.jpg" : "AerE 160 Lighter Than Air Competition 2015"
   - "/education/img/lta_wall.JPG" : "Video wall for LTA Competition 2015"
 
