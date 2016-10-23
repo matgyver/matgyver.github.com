@@ -25,3 +25,7 @@ This page will link to some other pages that are related to aviation.  There are
 StratuX
 -----
 The StratuX allows for a person to build their own ADS-B IN receiver.  Using a Raspberry Pi, some Software Defined Radios (SDRs) and a version of Linux to run it all and you have a portable receiver that can provide you with aircraft and weather information.
+
+It is very easy to build one of these units.  But of course I wanted to take it a step further and add additional features to the unit.  Speificially I looked at an internal battery system, an OLED display to display additional information and a Carbon Monoxide sensor.  You can view my work with this on this page: [StratuX Project](/aviation/stratux/stratux.md)
+
+I also did a WINGS course talking about ADS-B, the importance of ADS-B and also building a StratuX unit.  You can see my PowerPoint presentation for this here: [ADS-B Presentation April 2016](https://1drv.ms/p/s!AvCbHdocSd5Jl20Pn4AjiUSgs5ch)
