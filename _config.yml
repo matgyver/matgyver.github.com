@@ -25,7 +25,8 @@ description: A little bit of everything
 navbar-links:
   About:
     - About the site: "aboutrfgeeks"
-    - Author's CV: "aboutme"
+    - Matthew's CV: "aboutme"
+    - Jennifer's CF: "aboutme_jen"
   Projects:
     - Coming soon:
     - Coming soon:
@@ -57,7 +58,7 @@ author:
   twitter: matgyver   # eg. daattali
   #linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
   #stackoverflow: yourlink  # eg. "3943160/daattali"
- 
+
 # Select which links to show in the footer
 footer-links-active:
   rss: false
