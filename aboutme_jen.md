@@ -45,15 +45,13 @@ Systems Support Specialist III - Department of Physics, Iowa State University, A
 
 Responsibilities - Managed a broad variety of computing resources and provides support for faculty, staff, and students.	Provided support and setup for classrooms, labs, and other projects. Investigated and implemented new technologies for use in an academic environment.  
 
-Consultant - Ag Leader Technology, Ames, Iowa
+Consultant - Ag Leader Technology, Ames, Iowa. November 2006 - August 2007
 
-Responsibilities - Assisted staff with software language translation for agricultural tech products
+Responsibilities - Assisted staff with software language translation for agricultural technology products
 
-Chief Business Officer and Co-Founder - Open Engineering, LLC dba Aerodyne Labs.  2003 - present
+Chief Business Officer and Co-Founder - Open Engineering, LLC dba [Aerodyne Labs](http://www.aerodynelabs.com).  2003 - present
 
 Responsibilities - Co-Founded the company that does engineering consulting and recently has expanded to designing systems for aerospace applications.  Specifically our focus is in the electronics that is often used in high altitude ballooning and small satellite applications.
-
-[Aerodyne Labs website](http://www.aerodynelabs.com)
 
 Continuing Education
 --------------------
@@ -61,25 +59,26 @@ Continuing Education
 
 Organizations
 -------------
-+ Staff Advisor, 2015-present, [Iowa State University Flying Cyclones Club](https://www.stuorg.iastate.edu/site/flying) student organization
-+ [Stratospheric Ballooning Association (SBA)](http://www.stratoballooning.org), Treasurer (2012-2015) A non-profit organization with the core objective of making safe stratospheric ballooning accessible to everyone. This group was formed in 2012.
-+ Member and former officer, 2000-present, [Cyclone Amateur Radio Club](https://www.stuorg.iastate.edu/site/carc) student organization
++ Staff Advisor,[Iowa State University Flying Cyclones Club](https://www.stuorg.iastate.edu/site/flying) student organization.  2015-present
++ Charter Member, [Women in Aviation Iowa State Chapter](https://www.stuorg.iastate.edu/site/wai/information).  2017-present
++ [Stratospheric Ballooning Association (SBA)](http://www.stratoballooning.org), A non-profit organization with the core objective of making safe stratospheric ballooning accessible to everyone. This group was formed in 2012. Treasurer 2012-2015
++ Member and former officer, [Cyclone Amateur Radio Club](https://www.stuorg.iastate.edu/site/carc) student organization. 2000-present
 
 Hobbies & Volunteer work
 -----------------
-I have a strong interest in supporting the involvement of girls and women in the technical, engineering, electronics, and aviation professions.  
+I have a strong interest in promoting the involvement of girls and women in the technical, engineering, electronics, and aviation professions.  I spent most of my time volunteering in those areas.
 
 + Flying, Private Pilot (ASEL), working on instrument rating, March 2015-present
 + Commercial sUAS (Unmanned Aircraft Systems) Certificate
 + Amateur Radio, KC0IEN, General Class license 2000-present
-+ Iowa First Lego League (FLL) State Championship, Robot Design and Project Judge 2013-2017
-+ Iowa Student Tech Fair, Judge 2017
++ [Iowa First Lego League (FLL)](https://www.isek.iastate.edu/fll/) State Championship, Robot Design and Project Judge 2013-2017
++ [Iowa Student Tech Fair](http://www.itec-ia.org/?page_id=114), Judge 2017
 
 Memberships
 -----------------
-+ American Radio Relay League (ARRL)
-+ Experimental Aircraft Association (EAA)
-+ Women in Aviation International (WAI)
++ [American Radio Relay League (ARRL)](http://www.arrl.org/)
++ [Experimental Aircraft Association (EAA)](https://www.eaa.org/eaa)
++ [Women in Aviation International (WAI)](https://www.wai.org/)
 
 References
 ==========
