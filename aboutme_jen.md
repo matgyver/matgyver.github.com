@@ -59,9 +59,9 @@ Continuing Education
 
 Organizations
 -------------
-+ Staff Advisor,[Iowa State University Flying Cyclones Club](https://www.stuorg.iastate.edu/site/flying) student organization.  2015-present
++ Staff Advisor, [Iowa State University Flying Cyclones Club](https://www.stuorg.iastate.edu/site/flying) student organization.  2015-present
 + Charter Member, [Women in Aviation Iowa State Chapter](https://www.stuorg.iastate.edu/site/wai/information).  2017-present
-+ [Stratospheric Ballooning Association (SBA)](http://www.stratoballooning.org), A non-profit organization with the core objective of making safe stratospheric ballooning accessible to everyone. This group was formed in 2012. Treasurer 2012-2015
++ Member, [Stratospheric Ballooning Association (SBA)](http://www.stratoballooning.org), A non-profit organization with the core objective of making safe stratospheric ballooning accessible to everyone. This group was formed in 2012. Treasurer 2012-2015
 + Member and former officer, [Cyclone Amateur Radio Club](https://www.stuorg.iastate.edu/site/carc) student organization. 2000-present
 
 Hobbies & Volunteer work
