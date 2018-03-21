@@ -45,16 +45,14 @@ Maintains and manages:
 + Several Windows Server 2012 r2, RHEL6/7 servers
 + Virtual Desktop pool on ISU hosted VMware servers
 
---
 Chief Business Officer and Co-Founder - Open Engineering, LLC dba [Aerodyne Labs](http://www.aerodynelabs.com).  2003 - present
 
 Responsibilities - Co-Founded the company that does engineering consulting and recently has expanded to designing systems for aerospace applications.  Specifically our focus is in the electronics that is often used in high altitude ballooning and small satellite applications.
---
+
 Systems Support Specialist III - Department of Physics, Iowa State University, Ames, IA.  August 2007 - March 2012
 
 Responsibilities - Managed a broad variety of computing resources and provides support for faculty, staff, and students.	Provided support and setup for classrooms, labs, and other projects. Investigated and implemented new technologies for use in an academic environment.  
 
---
 Consultant - Ag Leader Technology, Ames, Iowa. November 2006 - August 2007
 
 Responsibilities - Assisted staff with software language translation for agricultural technology products
