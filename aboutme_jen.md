@@ -70,7 +70,7 @@ Organizations
 + Member, [Stratospheric Ballooning Association (SBA)](http://www.stratoballooning.org), A non-profit organization with the core objective of making safe stratospheric ballooning accessible to everyone. This group was formed in 2012. Treasurer 2012-2015
 + Industrial Affiliate for Aerodyne Labs, [Iowa Space Grant Consortium (ISGC)](https://www.iaspacegrant.org/), 2005-present
 + Member and former officer, [Cyclone Amateur Radio Club (CARC)](https://www.stuorg.iastate.edu/site/carc) student organization. 2000-present
-+ Member, [Story County Amateur Radio Club (SCARC)],(http://www.w0yl.com/). 2016-present
++ Member, [Story County Amateur Radio Club (SCARC)](http://www.w0yl.com/). 2016-present
 
 Hobbies & Volunteer work
 -----------------
