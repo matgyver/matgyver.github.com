@@ -8,10 +8,10 @@ tags: [resume, rfgeeks, about]
 
 bigimg:
   - "/img/project.JPG" : "PIC Lantern Project"
-  - "/img/wow.JPG" : "World of Warcraft"
+  - "/img/wow.jpg" : "World of Warcraft"
   - "/img/trebucht.JPG" : "Trebuchet"
   - "/img/aerith.JPG" : "Young Aerith"
-  - "/img/opie.JPG" : "Early Open Engineering Project"
+  - "/img/opie.jpg" : "Early Open Engineering Project"
   - "/img/Halloween_a_640.jpg" : "Stealthpegasus.com message"
 ---
 
