@@ -7,12 +7,12 @@ tags: [resume, rfgeeks, about]
 
 
 bigimg:
-  - "/education/img/project.jpg" : "PIC Lantern Project"
-  - "/education/img/wow.jpg" : "World of Warcraft"
-  - "/education/img/trebucht.jpg" : "Trebuchet"
-  - "/education/img/aerith.jpg" : "Young Aerith"
-  - "/education/img/opie.jpg" : "Early Open Engineering Project"
-  - "/education/img/Halloween_a_640" : "Stealthpegasus.com message"
+  - "/education/img/project.JPG" : "PIC Lantern Project"
+  - "/education/img/wow.JPG" : "World of Warcraft"
+  - "/education/img/trebucht.JPG" : "Trebuchet"
+  - "/education/img/aerith.JPG" : "Young Aerith"
+  - "/education/img/opie.JPG" : "Early Open Engineering Project"
+  - "/education/img/Halloween_a_640.jpg" : "Stealthpegasus.com message"
 ---
 
 History
