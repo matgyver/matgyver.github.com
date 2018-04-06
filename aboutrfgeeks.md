@@ -10,7 +10,7 @@ bigimg:
   - "/img/project.JPG" : "PIC Lantern Project"
   - "/img/wow.jpg" : "World of Warcraft"
   - "/img/trebucht.JPG" : "Trebuchet"
-  - "/img/aerith.JPG" : "Young Aerith"
+  - "/img/aerith.jpg" : "Young Aerith"
   - "/img/opie.jpg" : "Early Open Engineering Project"
   - "/img/Halloween_a_640.jpg" : "Stealthpegasus.com message"
 ---
