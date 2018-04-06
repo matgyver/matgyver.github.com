@@ -27,6 +27,12 @@ Bachelors of Science, Electrical Engineering, Iowa State University, Ames, IA  M
 
 Presentations and Papers
 ========================
+B. Ahn, M. Nelson (2018).  *Assessment of the effects of using the cooperative learning pedagogy in a hybrid mechanics of materials course Introduction and literature review*.  International Journal of Mechanical Engineering Education.
+
+M. Nelson, B. Ahn (Oct. 2017).  *Improving Engineering Students Professional Development Skills in the Make to Innovate Program*.  2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN
+
+M. Nelson (May 2016).  *Implementation and evaluation of a software defined radio based radiometer*.  Masters Thesis - Iowa State University.
+
 M. Nelson (June 2015).  *Wireless Sensor Networks for High Altitude Balloons*.  6th Annual Academic High Altitude conference, Chicago, IL
 
 M. Nelson E. Harstad (June 2014).  *Using the Nucleo Board and mbed for High Altitude Ballooning.*  2-day workshop taught at the 5th annual Academic High Altitude Conference, Grand Forks, ND
@@ -51,6 +57,8 @@ M.Nelson (June 2011).  *Welcome and Introduction of Mr. David Pierce from NASA W
 
 M. Nelson, C. Jensen, M. Lazere (June 2011).  *Bridging college students and K-12 students together through High Altitude Ballooning.* Paper presented at the 2nd Annual Academic High Altitude Conference (Video), Ames, IA
 
+Vyas, S., Mhapsekar, P., Ashok, A., Sayed, M., Srinivasa, A., Pandey, G., Jackson, A., Nelson, M., Saggi, A., Sundararaman, H., Jones, P.H.  *Team [Ii][Ss][Uu][0-2]{4} design overview: MEMOCODE 2010 Design Contest*  8th ACM/IEEE International Conference on Formal Methods and Models for Codesign, MEMOCODE 2010
+
 M. Nelson, E. Harstad, C. Reis (June 2010).  *Modular Electronics System for the HABET program at ISU.*  Paper presented at the Academic High Altitude Balloon Conference, Upland, IN.
 
 M. Nelson, C. Jensen (May 2010).  *Linking the Classroom to Near Space and Beyond.*  Paper presented at the Academic High Altitude Balloon Conference, Upland, IN.
@@ -62,10 +70,11 @@ M. Nelson,  F. Nutter, J.  Basart (June 2009).  *Engineering payload designs for
 M. Nelson, N. Willis, L. Benson, D. Harper, S. Wagner, A. Frick, F. Laipert, N. Ramey (April 2008).  *Feasibility Analysis of the Iowa State Student Moon Orbiter.*  Paper presented at the AIAA Region V Conference, St. Louis, MO.
 
 
-Copies of papers/presentations will be made available soon
-
 Additional Research Experience
 ==============================
+
+### PhD Dissertation topic
+Application of using virtual reality as a teaching tool for engineering students to gain valuable professional development skills.  Using Game Based Learning (GBL) as the framework and virtual reality as the method to expose students to an immersive environment designed to introduce and teach students professional development skills such as leadership, teamwork, communication and ethics.  The effectiveness of VR and GBL will be examined as well as the benefits these skills has on students.  
 
 ### Thesis Topic
 
@@ -81,6 +90,7 @@ Project Manager and Chief Engineer for the project.  Designed electronics used f
 
 Honours and Awards
 =================
++ Iowa Space Grant Consortium Collaborative Program Award, $8,500, Spring 2018
 + Induction into IEEE Etta Kappa Nue, 2016
 + NASA Exploration Systems Mission Directorate (ESMD) Award for Senior Design projects, $4,000, Fall 2011
 + NASA Exploration Systems Mission Directorate (ESMD) Award, $6,000, Summer 2010
