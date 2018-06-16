@@ -21,7 +21,7 @@ email - jdjohnso at iastate . edu
 Education Background
 ====================
 
-Bachelors of Science, Electrical Engineering, Iowa State University, Ames, IA  August 2006.  Studies in Electromagnetics.
+Bachelors of Science, Electrical Engineering, Iowa State University, Ames, IA  August 2005.  Studies in Electromagnetics.
 
 Professional Development
 ========================
@@ -37,13 +37,13 @@ Provides consultation with faculty, professional students and staff to design an
 Provides software and hardware purchasing guidance and ordering and support for Dell and Apple devices and a large of variety closed and open source software packages.   Particularly Microsoft Office, Adobe Creative Cloud, R, MATLAB, ImageJ/Fiji, Google Earth Pro, SAS, JMP, ArcGIS, SnapGene and related scientific software.  Utilizes software and hardware management software (Sassafras KeyServer) to examine indicators of software and hardware use in our unit.
 
 Maintains and manages:
-+ Over 1000 Windows 7/8/10 workstations using SCCM 2012, MDT 2013 and WDS including software packaging, scripting, OS deployment
-+ Over 300 macOS and iOS devices using Jamf Pro Suite including software packaging, scripting, OS deployment
++ Over 1000 Windows 7/8/10 workstations using SCCM 2012, MDT 2013 and WDS including software packaging, scripting, OS deployment via PXE and utilizes Windows Active Directory and group policy for management
++ Over 300 macOS and iOS devices using Jamf Pro Suite including software packaging, scripting, OS deployment, DEP
 + Approximately 20 Red Hat Linux 6/7 workstations via Kickstart, Ansible, and local RHN satellite
 + Over 100 HP LaserJet printers utilizing HP Web JetAdmin and PaperCut
 + Mozy Enterprise desktop backup for approximately 500 devices
 + Several Windows Server 2012 r2, RHEL6/7 servers
-+ Virtual Desktop pool on ISU hosted VMware servers
++ VMware Virtual Desktop pool on ISU hosted VMware servers
 
 Chief Business Officer and Co-Founder - Open Engineering, LLC dba [Aerodyne Labs](http://www.aerodynelabs.com).  2003 - present
 
@@ -57,10 +57,21 @@ Consultant - Ag Leader Technology, Ames, Iowa. November 2006 - August 2007
 
 Responsibilities - Assisted staff with software language translation for agricultural technology products
 
+Computer Technician - Nov 2000 – Dec 2004 ISU Extension Information Technology Ames, Iowa
+
+Responsibilities - Provided various levels of computer hardware and software support for staff including phone and remote help desk support, hardware and software configuration, computer imaging, restarting Novell servers in remote offices.  
+
+Skill Overview
+---------------
+Programming and scripting experience - C/C++, bash, PowerShell, MATLAB/Simulink
+Operating Systems - macOS, iOS, Android, Windows, RHEL/CentOS 6/7, some with Ubuntu and Debian (particularly Raspbian)
+Applications - MATLAB, Microsoft Office Suite, Git, VMware, HyperV, DeployStudio, JIRA, Scientific software primarily from Zeiss, Molecular Devices, Illumina, 3i
+Networking - DNS, TCP/IP, firewall configuration
+
 Continuing Education
 --------------------
 + [Jamf Casper Suite 9 Certified Technician](https://www.jamf.com/training/200/), March 2016
-+ Iowa State University [12+ Supervisory Leadership](http://www.hrs.iastate.edu/hrs/node/128). September 2017-present, expected completion May 2018
++ Iowa State University [12+ Supervisory Leadership](http://www.hrs.iastate.edu/hrs/node/128). September 2017-present, May 2018
 
 Organizations
 -------------
@@ -74,7 +85,7 @@ Organizations
 
 Hobbies & Volunteer work
 -----------------
-I have a strong interest in promoting the involvement of girls and women in the technical, engineering, electronics, and aviation professions.  I spent most of my time volunteering in those areas.
+I have a strong interest in promoting the involvement of girls and women in the technical, engineering, electronics, and aviation professions.  Most of my volunteering efforts are spent in these areas. 
 
 + Flying, Private Pilot Aircraft, Single Engine (ASEL), working on instrument rating, March 2015-present
 + Commercial Part 107 sUAS (Unmanned Aircraft Systems) Certificate 2016-present
