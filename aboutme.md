@@ -69,6 +69,10 @@ M. Nelson,  F. Nutter, J.  Basart (June 2009).  *Engineering payload designs for
 
 M. Nelson, N. Willis, L. Benson, D. Harper, S. Wagner, A. Frick, F. Laipert, N. Ramey (April 2008).  *Feasibility Analysis of the Iowa State Student Moon Orbiter.*  Paper presented at the AIAA Region V Conference, St. Louis, MO.
 
+Interviews
+==========
+Nelson, M.  2018, August 28th.  The Versatilist [Audio podcast] (https://www.podomatic.com/podcasts/versatilist/episodes/2018-08-27T06_27_56-07_00)
+
 
 Additional Research Experience
 ==============================
