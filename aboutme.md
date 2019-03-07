@@ -106,11 +106,11 @@ Professional Development
 
 Employment
 ----------
-Make to Innovate Program Coordinator/Design Engineer - Aerospace Engineering Department Iowa State University.  2011 - present
+Lecturer/Make to Innovate Director - Iowa State University - Aerospace Engineering Department.  2019 - Present
 
-Chief Design and Operations Engineer - Space Systems and Controls Lab, Iowa Space Grant Consortium/Iowa State University. 2005-2011
+Assistant Director - Iowa Space Grant Consortium.  2018 - Present
 
-Responsibilities - Oversee operations and engineering projects within the Make to Innovate (M:2:I) program in the Aerospace Engineering department.  Directing several student projects within the department.  Managing budget issues with several student projects.  Managing several undergraduate and graduate students employed by the Aerospace Engineering Department related to M:2:I.  Projects done within the M:2:I included High Altitude Balloon operations, Unmanned Vehicles including blimp based project (LABET) and ground based vehicle that competed in the University Rover Competition (MAVRIC).  Additional projects is a cubesat based project (CySAT) and a rocket launched from a HAB platform (Rockoon), CANSAT, ULSI and SAE Aerodesign Challenge and many others.  Provide electrical engineering support to faculty and staff for both research and instructional needs.  
+Responsibilities - Faculty in the Aerospace Engineering department at Iowa State University.  Teaching of the freshman courses and Make to Innovate courses.  Assistant Director for the Iowa Space Grant Consortium.  Oversee industrial relations with ISGC and assist with ISGC NASA grants.  
 
 [Make to Innovate (M:2:I) Website](http://www.aere.iastate.edu/m2i)
 
